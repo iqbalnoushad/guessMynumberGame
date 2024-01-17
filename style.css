@@ -40,7 +40,7 @@ body {
   flex-direction: column;
   justify-content: start;
   align-items: center;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
   background: #fff;
   height: 10rem;
   border-bottom-right-radius: 5rem;
@@ -129,6 +129,9 @@ body {
    body{
     margin: 1rem 1rem;
     font-size: 45%;
+   }
+   .main{
+    margin-top: -33px;
    }
    .check-result {
     height: 35vh;
